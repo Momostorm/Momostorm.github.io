@@ -66,6 +66,14 @@ footer{
   color: white;
 }
 
+.social {
+  width: 30px;
+  height: 30px;
+}
+div {
+  text-align: center;
+}
+
 footer > p{
   margin:0;
 }
